@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GeoTrigger Demo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="APP_ID">ZSIJlR6gjdkOkj6J</string>
+    <string name="GCM_SENDER_ID">216017798661</string>
+    <string name="LOG_TAG">MED_Geotrigger_Demo_1</string>
+</resources>
